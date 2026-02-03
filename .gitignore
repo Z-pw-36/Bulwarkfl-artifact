@@ -1,0 +1,12 @@
+﻿.DS_Store
+__MACOSX/
+.idea/
+.vscode/
+*.pyc
+__pycache__/
+.venv/
+venv/
+*.log
+results/
+outputs/
+code/core/context.pickle

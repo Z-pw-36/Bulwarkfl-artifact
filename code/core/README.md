@@ -1,0 +1,2 @@
+# Core Code for HE-based FL
+To maintain anonymity of the submission, here we only provide the core code related to HE in our FL system (the rest of the system will give out too many identifiers which is hard to anonymize). Note that this part will not run direcyly by itself as a FL system since it requires other system components.
